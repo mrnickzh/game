@@ -1,2 +1,3 @@
 # game
-game with multiplayer support
+Simple game that allows you to play with your friend
+If you found any bugs - make a pull request
